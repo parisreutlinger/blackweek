@@ -8,11 +8,11 @@ assignees: ''
 ---
 
 ---
-name: 🐞 Bug report wulfland
+name: 🐞 Bug report parisreutlinger
 about: Create a report to help us improve
 title: '[Bug]:'
 labels: 'bug'
-assignees: 'wulfland'
+assignees: 'parisreutlinger'
 
 ---
 
