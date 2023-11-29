@@ -3,7 +3,7 @@
 Repository for the `GitHub Fundamentals` training.
 
 ## Team Member
-@lwuert, @ajmerkl
+@lwuert, @ajmerkl,
 
 ## 👉 Objectives
 
