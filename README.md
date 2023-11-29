@@ -2,6 +2,9 @@
 
 Repository for the `GitHub Fundamentals` training.
 
+## Team Member
+@lwuert, @ajmerkl
+
 ## 👉 Objectives
 
 - Learning to __navigate GitHub__ and know the most important features (including shortcuts and search)
